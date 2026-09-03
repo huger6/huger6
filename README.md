@@ -1,7 +1,7 @@
 # Hey! I'm Hugo, welcome to my profile :)
 
 <p align="left">
-    🎓 2nd-year Software Engineering student<br>
+    🎓 final-year Software Engineering student<br>
     🚀 Passionate about software development, problem solving and learning new technologies<br>
     🌍 I enjoy working on impactful projects that solve real-world problems<br>
     🛠️ I like learning through hands-on projects
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
   <img width="12" />
@@ -39,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ejs/B4CA65" height="40" alt="EJS"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="Sqlite"  />
@@ -57,15 +57,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"  />
 </div>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=huger6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=huger6&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huger6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
 
